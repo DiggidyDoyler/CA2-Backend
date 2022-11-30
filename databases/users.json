@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Nona Hardin",
+    "email": "nonahardin@dentrex.com",
+    "password": "Bowen",
+    "account": "premium",
+    "favourites": [
+      590, 200, 121
+    ]
+  },
+  {
+    "name": "Mollie Cameron",
+    "email": "molliecameron@dentrex.com",
+    "password": "Gould",
+    "account": "premium",
+    "favourites": [
+      45, 823,1
+    ]
+  },
+  {
+    "name": "Tamara Richard",
+    "email": "tamararichard@dentrex.com",
+    "password": "Dickerson",
+    "account": "premium",
+    "favourites": [
+      753
+    ]
+  },
+     {
+    "name": "Bertie Turner",
+    "email": "bertieturner@dentrex.com",
+    "password": "Wagner",
+    "account": "premium",
+    "favourites": [
+      51, 22, 5
+    ]
+  },
+  {
+    "name": "Cooper Mcclain",
+    "email": "coopermcclain@dentrex.com",
+    "password": "Butler",
+    "account": "premium",
+    "favourites": [
+      725,9
+    ]
+  },
+  {
+    "name": "Reyna Neal",
+    "email": "reynaneal@dentrex.com",
+    "password": "Cantrell",
+    "account": "premium",
+    "favourites": [
+      154, 343, 65, 22
+    ]
+  },
+  {
+    "name": "Patrica Brennan",
+    "email": "patricabrennan@dentrex.com",
+    "password": "Hooper",
+    "account": "premium",
+    "favourites": [
+      181
+    ]
+  },
+  {
+    "name": "Tate Ramos",
+    "email": "tateramos@dentrex.com",
+    "password": "Reyes",
+    "account": "premium",
+    "favourites": [
+      575, 23, 65
+    ]
+  },
+  {
+    "name": "Osborn Zamora",
+    "email": "osbornzamora@dentrex.com",
+    "password": "Wilson",
+    "account": "premium",
+    "favourites": [
+      681,54
+    ]
+  },
+  {
+    "name": "Nguyen Camacho",
+    "email": "nguyencamacho@dentrex.com",
+    "password": "Hale",
+    "account": "premium",
+    "favourites": [
+      114, 432
+    ]
+  }
+]

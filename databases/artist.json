@@ -1,0 +1,2069 @@
+[
+  {
+    "artist_id": 0,
+    "artist": "3 Doors Down",
+    "song_id": [1, 2, 3],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 1,
+    "artist": "4 Non Blondes",
+    "song_id": [4],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 2,
+    "artist": "5 Seconds Of Summer",
+    "song_id": [5],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 3,
+    "artist": "A Day to Remember",
+    "song_id": [6],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 4,
+    "artist": "A Great Big World",
+    "song_id": [7, 8],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 5,
+    "artist": "AC/DC",
+    "song_id": [9, 10, 11, 12, 13, 14],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 6,
+    "artist": "Adam Levine",
+    "song_id": [15],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 7,
+    "artist": "Adam Sandler",
+    "song_id": [16],
+    "genre": "misc"
+  },
+  {
+    "artist_id": 8,
+    "artist": "Adele",
+    "song_id": [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 9,
+    "artist": "Aerosmith",
+    "song_id": [31, 32],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 10,
+    "artist": "Alamid",
+    "song_id": [34],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 11,
+    "artist": "Alan Walker",
+    "song_id": [35],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 12,
+    "artist": "Alanis Morissette",
+    "song_id": [36],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 13,
+    "artist": "Alessia Cara",
+    "song_id": [37],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 14,
+    "artist": "Alex & Sierra",
+    "song_id": [38],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 15,
+    "artist": "Alex Clare",
+    "song_id": [39],
+    "genre": "acoustic"
+  },
+  {
+    "artist_id": 16,
+    "artist": "Alicia Keys",
+    "song_id": [40],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 17,
+    "artist": "All Time Low",
+    "song_id": [41],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 18,
+    "artist": "America",
+    "song_id": [42],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 19,
+    "artist": "Amy Winehouse",
+    "song_id": [43, 44],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 20,
+    "artist": "Anda",
+    "song_id": [45],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 21,
+    "artist": "Andmesh Kamaleng",
+    "song_id": [46],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 22,
+    "artist": "Anji",
+    "song_id": [47],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 23,
+    "artist": "Anne-Marie",
+    "song_id": [48],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 24,
+    "artist": "Arctic Monkeys",
+    "song_id": [49, 50, 51],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 25,
+    "artist": "Ariana Grande",
+    "song_id": [52],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 26,
+    "artist": "Arijit Singh",
+    "song_id": [53],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 27,
+    "artist": "Armada",
+    "song_id": [54],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 28,
+    "artist": "Auburn",
+    "song_id": [55],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 29,
+    "artist": "Avenged Sevenfold",
+    "song_id": [56, 57, 58],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 30,
+    "artist": "Avicii",
+    "song_id": [59, 60],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 31,
+    "artist": "Avril Lavigne",
+    "song_id": [61, 62],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 32,
+    "artist": "Backstreet Boys",
+    "song_id": [63],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 33,
+    "artist": "Bastille",
+    "song_id": [64],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 34,
+    "artist": "Ben E. King",
+    "song_id": [65, 66],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 35,
+    "artist": "Ben&Ben",
+    "song_id": [67],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 36,
+    "artist": "Beyonce",
+    "song_id": [68, 69],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 37,
+    "artist": "Bill Withers",
+    "song_id": [70, 71, 72],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 38,
+    "artist": "Billie Eilish",
+    "song_id": [73, 74, 75, 76, 77],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 39,
+    "artist": "Billy Joel",
+    "song_id": [78],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 40,
+    "artist": "Bing Crosby",
+    "song_id": [79],
+    "genre": "jazz"
+  },
+  {
+    "artist_id": 41,
+    "artist": "Birdy",
+    "song_id": [80],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 42,
+    "artist": "Black Sabbath",
+    "song_id": [81, 82],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 43,
+    "artist": "Blink-182",
+    "song_id": [83, 84, 85, 86],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 44,
+    "artist": "Blue Ãyster Cult",
+    "song_id": [87],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 45,
+    "artist": "Bob Dylan",
+    "song_id": [88, 89, 90, 91, 92, 93],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 46,
+    "artist": "Bob Marley",
+    "song_id": [94, 95, 96, 97],
+    "genre": "reggae"
+  },
+  {
+    "artist_id": 47,
+    "artist": "Bon Iver",
+    "song_id": [98, 99],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 48,
+    "artist": "Bon Jovi",
+    "song_id": [100, 101, 102, 103, 104],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 49,
+    "artist": "Boston",
+    "song_id": [105],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 50,
+    "artist": "Boys Like Girls",
+    "song_id": [106],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 51,
+    "artist": "Bright Eyes",
+    "song_id": [107],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 52,
+    "artist": "Britney Spears",
+    "song_id": [108, 109],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 53,
+    "artist": "Bruno Mars",
+    "song_id": [110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 54,
+    "artist": "Bryan Adams",
+    "song_id": [122, 123, 124],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 55,
+    "artist": "Budi Doremi",
+    "song_id": [125],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 56,
+    "artist": "Cage the Elephant",
+    "song_id": [126],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 57,
+    "artist": "Callalily",
+    "song_id": [127],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 58,
+    "artist": "Calum Scott",
+    "song_id": [128, 129],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 59,
+    "artist": "Camila Cabello",
+    "song_id": [130],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 60,
+    "artist": "Carly Rae Jepsen",
+    "song_id": [131],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 61,
+    "artist": "Cat Stevens",
+    "song_id": [132],
+    "genre": "jazz"
+  },
+  {
+    "artist_id": 62,
+    "artist": "Cee Lo Green",
+    "song_id": [133],
+    "genre": "acoustic"
+  },
+  {
+    "artist_id": 63,
+    "artist": "Celine Dion",
+    "song_id": [134, 135],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 64,
+    "artist": "Charlie Puth",
+    "song_id": [136, 137],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 65,
+    "artist": "Chris Isaak",
+    "song_id": [138],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 66,
+    "artist": "Chris Stapleton",
+    "song_id": [139],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 67,
+    "artist": "Chris Tomlin",
+    "song_id": [140, 141, 142],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 68,
+    "artist": "Christina Perri",
+    "song_id": [143, 144, 145, 146],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 69,
+    "artist": "Chuck Berry",
+    "song_id": [147],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 70,
+    "artist": "City and Colour",
+    "song_id": [148],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 71,
+    "artist": "Coheed and Cambria",
+    "song_id": [149],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 72,
+    "artist": "Colbie Caillat",
+    "song_id": [150],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 73,
+    "artist": "Coldplay",
+    "song_id": [151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 74,
+    "artist": "Cory Asbury",
+    "song_id": [162],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 75,
+    "artist": "Counting Crows",
+    "song_id": [163, 164],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 76,
+    "artist": "Cream",
+    "song_id": [165],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 77,
+    "artist": "Creed",
+    "song_id": [166],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 78,
+    "artist": "Creedence Clearwater Revival",
+    "song_id": [167, 168, 169],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 79,
+    "artist": "Crowded House",
+    "song_id": [170],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 80,
+    "artist": "Cyndi Lauper",
+    "song_id": [171],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 81,
+    "artist": "Daft Punk",
+    "song_id": [172],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 82,
+    "artist": "Damien Rice",
+    "song_id": [173, 174],
+    "genre": "acoustic"
+  },
+  {
+    "artist_id": 83,
+    "artist": "Daniel Caesar",
+    "song_id": [175, 176],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 84,
+    "artist": "Daniel Powter",
+    "song_id": [177],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 85,
+    "artist": "Darius Rucker",
+    "song_id": [178],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 86,
+    "artist": "David Bowie",
+    "song_id": [179, 180],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 87,
+    "artist": "David Crowder Band",
+    "song_id": [181],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 88,
+    "artist": "David Guetta",
+    "song_id": [182, 183],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 89,
+    "artist": "Death Cab for Cutie",
+    "song_id": [184, 185, 186],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 90,
+    "artist": "December Avenue",
+    "song_id": [187],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 91,
+    "artist": "Deep Purple",
+    "song_id": [188],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 92,
+    "artist": "Demi Lovato",
+    "song_id": [189, 190, 191],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 93,
+    "artist": "Dewa 19",
+    "song_id": [192, 193],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 94,
+    "artist": "Dire Straits",
+    "song_id": [194, 195],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 95,
+    "artist": "Dixie Chicks",
+    "song_id": [196],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 96,
+    "artist": "Dolly Parton",
+    "song_id": [197],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 97,
+    "artist": "Don McLean",
+    "song_id": [198],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 98,
+    "artist": "Eagle-Eye Cherry",
+    "song_id": [199],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 99,
+    "artist": "Eagles",
+    "song_id": [200, 201, 202, 203, 204, 205, 206],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 100,
+    "artist": "Ed Sheeran",
+    "song_id": [
+      207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221,
+      222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233
+    ],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 101,
+    "artist": "Eddie Vedder",
+    "song_id": [234],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 102,
+    "artist": "Edward Sharpe and the Magnetic Zeros",
+    "song_id": [235],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 103,
+    "artist": "Edwin McCain",
+    "song_id": [236],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 104,
+    "artist": "Elevation Worship",
+    "song_id": [237],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 105,
+    "artist": "Ellie Goulding",
+    "song_id": [238, 239],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 106,
+    "artist": "Elton John",
+    "song_id": [240, 241, 242, 243],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 107,
+    "artist": "Elvis Presley",
+    "song_id": [244, 245, 246, 247],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 108,
+    "artist": "Emeli Sande",
+    "song_id": [248],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 109,
+    "artist": "Enrique Iglesias",
+    "song_id": [249, 250],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 110,
+    "artist": "Eraserheads",
+    "song_id": [251, 252, 253],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 111,
+    "artist": "Eric Clapton",
+    "song_id": [254, 255, 256, 257, 258, 259],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 112,
+    "artist": "Evanescence",
+    "song_id": [260],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 113,
+    "artist": "Extreme",
+    "song_id": [261, 262],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 114,
+    "artist": "Fiersa Besari",
+    "song_id": [263, 264, 265, 266],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 115,
+    "artist": "Five for Fighting",
+    "song_id": [267],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 116,
+    "artist": "Foo Fighters",
+    "song_id": [268, 269, 270, 271],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 117,
+    "artist": "Fool's Garden",
+    "song_id": [272],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 118,
+    "artist": "Foster the People",
+    "song_id": [273, 274],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 119,
+    "artist": "Fourtwnty",
+    "song_id": [275, 276],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 120,
+    "artist": "Frank Sinatra",
+    "song_id": [277, 278],
+    "genre": "jazz"
+  },
+  {
+    "artist_id": 121,
+    "artist": "Fugees",
+    "song_id": [279],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 122,
+    "artist": "Gary Jules",
+    "song_id": [280],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 123,
+    "artist": "Glen Hansard",
+    "song_id": [281],
+    "genre": "acoustic"
+  },
+  {
+    "artist_id": 124,
+    "artist": "Gnarls Barkley",
+    "song_id": [282],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 125,
+    "artist": "Goo Goo Dolls",
+    "song_id": [283, 284, 285],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 126,
+    "artist": "Gotye",
+    "song_id": [286, 287],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 127,
+    "artist": "Green Day",
+    "song_id": [
+      288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300
+    ],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 128,
+    "artist": "Guns N' Roses",
+    "song_id": [301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 129,
+    "artist": "Harry Styles",
+    "song_id": [313],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 130,
+    "artist": "Hillsong United",
+    "song_id": [314, 315, 316, 317],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 131,
+    "artist": "Hillsong Worship",
+    "song_id": [318],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 132,
+    "artist": "Hinder",
+    "song_id": [319],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 133,
+    "artist": "Hoobastank",
+    "song_id": [320],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 134,
+    "artist": "Housefires",
+    "song_id": [321],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 135,
+    "artist": "Howie Day",
+    "song_id": [322, 323],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 136,
+    "artist": "Hozier",
+    "song_id": [324, 325, 326],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 137,
+    "artist": "Imagine Dragons",
+    "song_id": [327, 328, 329, 330],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 138,
+    "artist": "Ingrid Michaelson",
+    "song_id": [331],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 139,
+    "artist": "Iron Maiden",
+    "song_id": [332],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 140,
+    "artist": "Israel Kamakawiwo'ole",
+    "song_id": [333, 334, 335],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 141,
+    "artist": "Jack Johnson",
+    "song_id": [336, 337, 338],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 142,
+    "artist": "James Arthur",
+    "song_id": [339, 340, 341],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 143,
+    "artist": "James Bay",
+    "song_id": [342, 343],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 144,
+    "artist": "James Blunt",
+    "song_id": [344, 345],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 145,
+    "artist": "James Morrison",
+    "song_id": [346],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 146,
+    "artist": "James Taylor",
+    "song_id": [347],
+    "genre": "country"
+  },
+  {
+    "artist_id": 147,
+    "artist": "Janis Joplin",
+    "song_id": [348],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 148,
+    "artist": "Jason Mraz",
+    "song_id": [349, 350, 351, 352, 353, 354, 355, 356, 357, 358],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 149,
+    "artist": "Jeff Buckley",
+    "song_id": [359, 360, 361, 362],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 150,
+    "artist": "JerryC",
+    "song_id": [363],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 151,
+    "artist": "Jessie J",
+    "song_id": [364, 365, 366],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 152,
+    "artist": "Jesus Culture",
+    "song_id": [367],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 153,
+    "artist": "Jimi Hendrix",
+    "song_id": [368, 369],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 154,
+    "artist": "Jireh Lim",
+    "song_id": [370],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 155,
+    "artist": "Joe Anderson",
+    "song_id": [371],
+    "genre": "acoustic"
+  },
+  {
+    "artist_id": 156,
+    "artist": "Joe Walsh",
+    "song_id": [372],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 157,
+    "artist": "Johann Pachelbel",
+    "song_id": [373],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 158,
+    "artist": "John Denver",
+    "song_id": [374, 375, 376, 377],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 159,
+    "artist": "John Legend",
+    "song_id": [378, 379],
+    "genre": "acoustic"
+  },
+  {
+    "artist_id": 160,
+    "artist": "John Lennon",
+    "song_id": [380, 381, 382, 383],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 161,
+    "artist": "John Mayer",
+    "song_id": [384, 385, 386, 387, 388],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 162,
+    "artist": "Johnny Cash",
+    "song_id": [389, 390, 391, 392, 393, 394, 395],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 163,
+    "artist": "Joseph Vincent",
+    "song_id": [396],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 164,
+    "artist": "Josh Groban",
+    "song_id": [397],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 165,
+    "artist": "Journey",
+    "song_id": [398],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 166,
+    "artist": "Juan Karlos Labajo",
+    "song_id": [399],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 167,
+    "artist": "Judy Garland",
+    "song_id": [400],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 168,
+    "artist": "Justin Bieber",
+    "song_id": [401, 402, 403],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 169,
+    "artist": "Justin Timberlake",
+    "song_id": [404],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 170,
+    "artist": "Kansas",
+    "song_id": [406, 407, 408, 409],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 171,
+    "artist": "Katy Perry",
+    "song_id": [410, 411, 412, 413, 414, 415],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 172,
+    "artist": "Keane",
+    "song_id": [416, 417],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 173,
+    "artist": "Kelly Clarkson",
+    "song_id": [418],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 174,
+    "artist": "Kevin Devine",
+    "song_id": [419],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 175,
+    "artist": "Kings of Leon",
+    "song_id": [420, 421, 422],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 176,
+    "artist": "Kodaline",
+    "song_id": [423, 424],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 177,
+    "artist": "LP",
+    "song_id": [452],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 178,
+    "artist": "Labrinth",
+    "song_id": [425],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 179,
+    "artist": "Lady A (Lady Antebellum)",
+    "song_id": [426],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 180,
+    "artist": "Lady Gaga",
+    "song_id": [427, 428, 429],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 181,
+    "artist": "Lana Del Rey",
+    "song_id": [430, 431, 432],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 182,
+    "artist": "Led Zeppelin",
+    "song_id": [433, 434, 435, 436, 437],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 183,
+    "artist": "Leonard Cohen",
+    "song_id": [438],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 184,
+    "artist": "Lewis Capaldi",
+    "song_id": [439, 440],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 185,
+    "artist": "Lifehouse",
+    "song_id": [441, 442, 443],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 186,
+    "artist": "Lil Nas X",
+    "song_id": [444],
+    "genre": "rap"
+  },
+  {
+    "artist_id": 187,
+    "artist": "Lil Wayne",
+    "song_id": [445],
+    "genre": "rap"
+  },
+  {
+    "artist_id": 188,
+    "artist": "Limp Bizkit",
+    "song_id": [446],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 189,
+    "artist": "Linkin Park",
+    "song_id": [447],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 190,
+    "artist": "Lord Huron",
+    "song_id": [448],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 191,
+    "artist": "Lorde",
+    "song_id": [449],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 192,
+    "artist": "Louis Armstrong",
+    "song_id": [450, 451],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 193,
+    "artist": "Ludwig van Beethoven",
+    "song_id": [453],
+    "genre": "classical"
+  },
+  {
+    "artist_id": 194,
+    "artist": "Luis Fonsi",
+    "song_id": [454, 455],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 195,
+    "artist": "Lukas Graham",
+    "song_id": [456],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 196,
+    "artist": "Lynyrd Skynyrd",
+    "song_id": [457, 458, 459, 460],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 197,
+    "artist": "MAGIC!",
+    "song_id": [461],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 198,
+    "artist": "MGMT",
+    "song_id": [493],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 199,
+    "artist": "Mariah Carey",
+    "song_id": [462],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 200,
+    "artist": "Marilyn Manson",
+    "song_id": [463],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 201,
+    "artist": "Mark Ronson",
+    "song_id": [464],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 202,
+    "artist": "Maroon 5",
+    "song_id": [465, 466, 467, 468, 469, 470, 471, 472, 473],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 203,
+    "artist": "Matisyahu",
+    "song_id": [474],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 204,
+    "artist": "Matt Redman",
+    "song_id": [475, 476],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 205,
+    "artist": "Meghan Trainor",
+    "song_id": [477, 478],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 206,
+    "artist": "Metallica",
+    "song_id": [
+      479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492
+    ],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 207,
+    "artist": "Michael Buble",
+    "song_id": [494, 495],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 208,
+    "artist": "Michael Jackson",
+    "song_id": [496, 497],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 209,
+    "artist": "Miley Cyrus",
+    "song_id": [498, 499, 500, 501, 502],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 210,
+    "artist": "Milky Chance",
+    "song_id": [503],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 211,
+    "artist": "Milow",
+    "song_id": [504, 505],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 212,
+    "artist": "Misc Cartoons",
+    "song_id": [506, 507, 508, 509],
+    "genre": "misc"
+  },
+  {
+    "artist_id": 213,
+    "artist": "Misc Christmas",
+    "song_id": [510, 511, 512],
+    "genre": "misc"
+  },
+  {
+    "artist_id": 214,
+    "artist": "Misc Computer Games",
+    "song_id": [513],
+    "genre": "misc"
+  },
+  {
+    "artist_id": 215,
+    "artist": "Misc Praise Songs",
+    "song_id": [514],
+    "genre": "misc"
+  },
+  {
+    "artist_id": 216,
+    "artist": "Misc Soundtrack",
+    "song_id": [515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525],
+    "genre": "misc"
+  },
+  {
+    "artist_id": 217,
+    "artist": "Misc Television",
+    "song_id": [526],
+    "genre": "misc"
+  },
+  {
+    "artist_id": 218,
+    "artist": "Misc Traditional",
+    "song_id": [527, 528, 529],
+    "genre": "misc"
+  },
+  {
+    "artist_id": 219,
+    "artist": "Moonstar88",
+    "song_id": [530],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 220,
+    "artist": "Mr. Big",
+    "song_id": [531],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 221,
+    "artist": "Mumford & Sons",
+    "song_id": [532, 533, 534, 535],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 222,
+    "artist": "Muse",
+    "song_id": [536, 537, 538],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 223,
+    "artist": "My Chemical Romance",
+    "song_id": [539],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 224,
+    "artist": "Naif",
+    "song_id": [540, 541],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 225,
+    "artist": "Natalie Imbruglia",
+    "song_id": [542],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 226,
+    "artist": "Neil Diamond",
+    "song_id": [544],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 227,
+    "artist": "Neil Young",
+    "song_id": [545, 546, 547, 548, 549, 550],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 228,
+    "artist": "Neutral Milk Hotel",
+    "song_id": [551],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 229,
+    "artist": "Niall Horan",
+    "song_id": [552],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 230,
+    "artist": "Nick Jonas",
+    "song_id": [553],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 231,
+    "artist": "Nirvana",
+    "song_id": [554, 555, 556, 557, 558, 559, 560, 561, 562],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 232,
+    "artist": "Oasis",
+    "song_id": [563, 564, 565, 566, 567, 568, 569, 570, 571],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 233,
+    "artist": "Of Monsters and Men",
+    "song_id": [572, 573],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 234,
+    "artist": "Old Crow Medicine Show",
+    "song_id": [574],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 235,
+    "artist": "One Direction",
+    "song_id": [575, 576, 577, 578, 579, 580, 581],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 236,
+    "artist": "OneRepublic",
+    "song_id": [582, 583],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 237,
+    "artist": "Orange and Lemons",
+    "song_id": [584],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 238,
+    "artist": "Otis Redding",
+    "song_id": [585],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 239,
+    "artist": "OutKast",
+    "song_id": [586],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 240,
+    "artist": "Owl City",
+    "song_id": [587],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 241,
+    "artist": "Ozzy Osbourne",
+    "song_id": [588],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 242,
+    "artist": "P!nk",
+    "song_id": [589, 590],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 243,
+    "artist": "Paolo Nutini",
+    "song_id": [591, 592],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 244,
+    "artist": "Paramore",
+    "song_id": [593, 594, 595],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 245,
+    "artist": "Parokya ni Edgar",
+    "song_id": [596, 597, 598],
+    "genre": "acoustic"
+  },
+  {
+    "artist_id": 246,
+    "artist": "Passenger",
+    "song_id": [599, 600, 601],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 247,
+    "artist": "Payung Teduh",
+    "song_id": [602],
+    "genre": "jazz"
+  },
+  {
+    "artist_id": 248,
+    "artist": "Pearl Jam",
+    "song_id": [603, 604],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 249,
+    "artist": "Pink Floyd",
+    "song_id": [605, 606, 607, 608, 609, 610],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 250,
+    "artist": "Pixies",
+    "song_id": [611],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 251,
+    "artist": "Plain White T's",
+    "song_id": [612, 613, 614, 615, 616, 617],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 252,
+    "artist": "Poison",
+    "song_id": [618],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 253,
+    "artist": "Prince",
+    "song_id": [619],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 254,
+    "artist": "Queen",
+    "song_id": [620, 621, 622, 623, 624, 625, 626, 627],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 255,
+    "artist": "R.E.M.",
+    "song_id": [628, 629],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 256,
+    "artist": "Rachel Platten",
+    "song_id": [630],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 257,
+    "artist": "Radiohead",
+    "song_id": [631, 632, 633, 634, 635, 636, 637],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 258,
+    "artist": "Randy Newman",
+    "song_id": [638],
+    "genre": "jazz"
+  },
+  {
+    "artist_id": 259,
+    "artist": "Ray Charles",
+    "song_id": [639],
+    "genre": "jazz"
+  },
+  {
+    "artist_id": 260,
+    "artist": "Red Hot Chili Peppers",
+    "song_id": [640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 261,
+    "artist": "Rey Valera",
+    "song_id": [651],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 262,
+    "artist": "Rihanna",
+    "song_id": [652, 653, 654, 655, 656, 657, 658],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 263,
+    "artist": "Rise Against",
+    "song_id": [659],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 264,
+    "artist": "Rivermaya",
+    "song_id": [660, 661, 662],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 265,
+    "artist": "Ronan Keating",
+    "song_id": [663, 664],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 266,
+    "artist": "Ruth B.",
+    "song_id": [665],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 267,
+    "artist": "Sam Smith",
+    "song_id": [666, 667, 668, 669, 670],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 268,
+    "artist": "Sara Bareilles",
+    "song_id": [671],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 269,
+    "artist": "Scorpions",
+    "song_id": [672],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 270,
+    "artist": "Secondhand Serenade",
+    "song_id": [673, 674, 675],
+    "genre": "acoustic"
+  },
+  {
+    "artist_id": 271,
+    "artist": "Shania Twain",
+    "song_id": [676],
+    "genre": "jazz"
+  },
+  {
+    "artist_id": 272,
+    "artist": "Shawn Mendes",
+    "song_id": [677, 678, 679, 680],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 273,
+    "artist": "Sheryl Crow",
+    "song_id": [681],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 274,
+    "artist": "Shontelle",
+    "song_id": [682],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 275,
+    "artist": "Sia",
+    "song_id": [683],
+    "genre": "jazz"
+  },
+  {
+    "artist_id": 276,
+    "artist": "Side A",
+    "song_id": [684],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 277,
+    "artist": "Simon & Garfunkel",
+    "song_id": [685, 686, 687, 688, 689],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 278,
+    "artist": "Simple Plan",
+    "song_id": [690, 691],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 279,
+    "artist": "Sixpence None the Richer",
+    "song_id": [692],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 280,
+    "artist": "Slayer",
+    "song_id": [693],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 281,
+    "artist": "Slipknot",
+    "song_id": [694, 695],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 282,
+    "artist": "Smash Mouth",
+    "song_id": [696],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 283,
+    "artist": "Snow Patrol",
+    "song_id": [697, 698],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 284,
+    "artist": "Soul Asylum",
+    "song_id": [699],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 285,
+    "artist": "Stephen Speaks",
+    "song_id": [700],
+    "genre": "dance"
+  },
+  {
+    "artist_id": 286,
+    "artist": "Sting",
+    "song_id": [701],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 287,
+    "artist": "Sublime",
+    "song_id": [702, 703],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 288,
+    "artist": "Sum 41",
+    "song_id": [704],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 289,
+    "artist": "Sungha Jung",
+    "song_id": [705],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 290,
+    "artist": "System of a Down",
+    "song_id": [706, 707, 708, 709, 710],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 291,
+    "artist": "Taio Cruz",
+    "song_id": [711],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 292,
+    "artist": "Tamia",
+    "song_id": [712],
+    "genre": "jazz"
+  },
+  {
+    "artist_id": 293,
+    "artist": "Taylor Swift",
+    "song_id": [
+      713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727,
+      728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739
+    ],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 294,
+    "artist": "Tenacious D",
+    "song_id": [740, 741],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 295,
+    "artist": "The Animals",
+    "song_id": [742, 743, 744],
+    "genre": "acoustic"
+  },
+  {
+    "artist_id": 296,
+    "artist": "The Band",
+    "song_id": [745],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 297,
+    "artist": "The Band Perry",
+    "song_id": [746, 747],
+    "genre": "jazz"
+  },
+  {
+    "artist_id": 298,
+    "artist": "The Beatles",
+    "song_id": [
+      748, 749, 750, 751, 752, 753, 754, 755, 756, 757, 758, 759, 760, 761, 762,
+      763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773
+    ],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 299,
+    "artist": "The Calling",
+    "song_id": [774],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 300,
+    "artist": "The Chainsmokers",
+    "song_id": [775, 776],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 301,
+    "artist": "The Cranberries",
+    "song_id": [777, 778],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 302,
+    "artist": "The Cure",
+    "song_id": [779],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 303,
+    "artist": "The Fray",
+    "song_id": [780, 781],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 304,
+    "artist": "The Killers",
+    "song_id": [782],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 305,
+    "artist": "The Kooks",
+    "song_id": [783],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 306,
+    "artist": "The Lumineers",
+    "song_id": [784],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 307,
+    "artist": "The Neighbourhood",
+    "song_id": [785],
+    "genre": "alternative"
+  },
+  {
+    "artist_id": 308,
+    "artist": "The Police",
+    "song_id": [786],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 309,
+    "artist": "The Red Jumpsuit Apparatus",
+    "song_id": [787, 788],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 310,
+    "artist": "The Righteous Brothers",
+    "song_id": [789],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 311,
+    "artist": "The Rolling Stones",
+    "song_id": [790, 791, 792],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 312,
+    "artist": "The Script",
+    "song_id": [793, 794, 795],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 313,
+    "artist": "The Smiths",
+    "song_id": [796],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 314,
+    "artist": "The White Stripes",
+    "song_id": [797, 798],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 315,
+    "artist": "Third Eye Blind",
+    "song_id": [799],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 316,
+    "artist": "This Band",
+    "song_id": [800],
+    "genre": "indie"
+  },
+  {
+    "artist_id": 317,
+    "artist": "Three Days Grace",
+    "song_id": [801],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 318,
+    "artist": "Tom Odell",
+    "song_id": [802],
+    "genre": "jazz"
+  },
+  {
+    "artist_id": 319,
+    "artist": "Tom Petty",
+    "song_id": [803, 804],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 320,
+    "artist": "Tones And I",
+    "song_id": [805],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 321,
+    "artist": "Toto",
+    "song_id": [806],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 322,
+    "artist": "Tracy Chapman",
+    "song_id": [807, 808, 809],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 323,
+    "artist": "Train",
+    "song_id": [810, 811, 812, 813],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 324,
+    "artist": "Travie McCoy",
+    "song_id": [814],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 325,
+    "artist": "U2",
+    "song_id": [818, 819],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 326,
+    "artist": "Up Dharma Down",
+    "song_id": [820],
+    "genre": "acoustic"
+  },
+  {
+    "artist_id": 327,
+    "artist": "Van Morrison",
+    "song_id": [821, 822],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 328,
+    "artist": "Vance Joy",
+    "song_id": [823, 824, 825],
+    "genre": "acoustic"
+  },
+  {
+    "artist_id": 329,
+    "artist": "Virgoun",
+    "song_id": [826],
+    "genre": "blues"
+  },
+  {
+    "artist_id": 330,
+    "artist": "Weezer",
+    "song_id": [827, 828],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 331,
+    "artist": "Westlife",
+    "song_id": [829, 830],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 332,
+    "artist": "Wham!",
+    "song_id": [831],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 333,
+    "artist": "Wheatus",
+    "song_id": [832],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 334,
+    "artist": "Wiz Khalifa",
+    "song_id": [833, 834],
+    "genre": "rap"
+  },
+  {
+    "artist_id": 335,
+    "artist": "Yes",
+    "song_id": [835, 836],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 336,
+    "artist": "Young MC",
+    "song_id": [837],
+    "genre": "rap"
+  },
+  {
+    "artist_id": 337,
+    "artist": "ZZ Top",
+    "song_id": [
+      838, 839, 840, 841, 842, 843, 844, 845, 846, 847, 848, 849, 850
+    ],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 338,
+    "artist": "a-ha",
+    "song_id": [33],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 339,
+    "artist": "kahitna",
+    "song_id": [405],
+    "genre": "pop"
+  },
+  {
+    "artist_id": 340,
+    "artist": "near (Indonesia)",
+    "song_id": [543],
+    "genre": "rock"
+  },
+  {
+    "artist_id": 341,
+    "artist": "twenty one pilots",
+    "song_id": [815, 816, 817],
+    "genre": "rap"
+  }
+]

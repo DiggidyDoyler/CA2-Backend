@@ -1,0 +1,343 @@
+,artist,song_id,genre
+0,3 Doors Down,"[1, 2, 3]",rock 
+1,4 Non Blondes,[4],rock 
+2,5 Seconds Of Summer,[5],alternative
+3,A Day to Remember,[6],rock
+4,A Great Big World,"[7, 8]",pop
+5,AC/DC,"[9, 10, 11, 12, 13, 14]",rock 
+6,Adam Levine,[15],pop
+7,Adam Sandler,[16],misc
+8,Adele,"[17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]",
+9,Aerosmith,"[31, 32]",rock 
+10,Alamid,[34],rock
+11,Alan Walker,[35],dance
+12,Alanis Morissette,[36],pop
+13,Alessia Cara,[37],pop
+14,Alex & Sierra,[38],pop
+15,Alex Clare,[39],acoustic
+16,Alicia Keys,[40],pop
+17,All Time Low,[41],rock 
+18,America,[42],rock 
+19,Amy Winehouse,"[43, 44]",pop
+20,Anda,[45],pop
+21,Andmesh Kamaleng,[46],alternative
+22,Anji,[47],indie
+23,Anne-Marie,[48],pop
+24,Arctic Monkeys,"[49, 50, 51]",indie
+25,Ariana Grande,[52],pop
+26,Arijit Singh,[53],pop
+27,Armada,[54],pop
+28,Auburn,[55],pop
+29,Avenged Sevenfold,"[56, 57, 58]",rock 
+30,Avicii,"[59, 60]",dance
+31,Avril Lavigne,"[61, 62]",rock 
+32,Backstreet Boys,[63],pop
+33,Bastille,[64],dance
+34,Ben E. King,"[65, 66]",blues
+35,Ben&Ben,[67],pop
+36,Beyonce,"[68, 69]",pop
+37,Bill Withers,"[70, 71, 72]",blues
+38,Billie Eilish,"[73, 74, 75, 76, 77]",
+39,Billy Joel,[78],rock 
+40,Bing Crosby,[79],jazz
+41,Birdy,[80],pop
+42,Black Sabbath,"[81, 82]",rock 
+43,Blink-182,"[83, 84, 85, 86]",rock 
+44,Blue Ãyster Cult,[87],rock 
+45,Bob Dylan,"[88, 89, 90, 91, 92, 93]",rock 
+46,Bob Marley,"[94, 95, 96, 97]",reggae
+47,Bon Iver,"[98, 99]",alternative
+48,Bon Jovi,"[100, 101, 102, 103, 104]",rock
+49,Boston,[105],rock 
+50,Boys Like Girls,[106],pop
+51,Bright Eyes,[107],alternative
+52,Britney Spears,"[108, 109]",pop
+53,Bruno Mars,"[110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121]",pop
+54,Bryan Adams,"[122, 123, 124]",pop
+55,Budi Doremi,[125],pop
+56,Cage the Elephant,[126],alternative
+57,Callalily,[127],indie
+58,Calum Scott,"[128, 129]",pop
+59,Camila Cabello,[130],indie
+60,Carly Rae Jepsen,[131],pop
+61,Cat Stevens,[132],jazz
+62,Cee Lo Green,[133],acoustic
+63,Celine Dion,"[134, 135]",pop
+64,Charlie Puth,"[136, 137]",pop
+65,Chris Isaak,[138],pop
+66,Chris Stapleton,[139],pop
+67,Chris Tomlin,"[140, 141, 142]",pop
+68,Christina Perri,"[143, 144, 145, 146]",pop
+69,Chuck Berry,[147],blues
+70,City and Colour,[148],alternative
+71,Coheed and Cambria,[149],alternative
+72,Colbie Caillat,[150],rock
+73,Coldplay,"[151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161]",pop
+74,Cory Asbury,[162],pop
+75,Counting Crows,"[163, 164]",pop
+76,Cream,[165],rock
+77,Creed,[166],rock
+78,Creedence Clearwater Revival,"[167, 168, 169]",rock
+79,Crowded House,[170],rock
+80,Cyndi Lauper,[171],pop
+81,Daft Punk,[172],dance
+82,Damien Rice,"[173, 174]",acoustic
+83,Daniel Caesar,"[175, 176]",dance
+84,Daniel Powter,[177],pop
+85,Darius Rucker,[178],blues
+86,David Bowie,"[179, 180]",rock
+87,David Crowder Band,[181],blues
+88,David Guetta,"[182, 183]",dance
+89,Death Cab for Cutie,"[184, 185, 186]",rock 
+90,December Avenue,[187],rock
+91,Deep Purple,[188],rock
+92,Demi Lovato,"[189, 190, 191]",dance
+93,Dewa 19,"[192, 193]",dance
+94,Dire Straits,"[194, 195]",rock
+95,Dixie Chicks,[196],pop
+96,Dolly Parton,[197],pop
+97,Don McLean,[198],blues
+98,Eagle-Eye Cherry,[199],rock
+99,Eagles,"[200, 201, 202, 203, 204, 205, 206]",rock
+100,Ed Sheeran,"[207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233]",pop
+101,Eddie Vedder,[234],rock 
+102,Edward Sharpe and the Magnetic Zeros,[235],alternative
+103,Edwin McCain,[236],indie
+104,Elevation Worship,[237],pop
+105,Ellie Goulding,"[238, 239]",pop
+106,Elton John,"[240, 241, 242, 243]",pop
+107,Elvis Presley,"[244, 245, 246, 247]",rock
+108,Emeli Sande,[248],pop
+109,Enrique Iglesias,"[249, 250]",pop
+110,Eraserheads,"[251, 252, 253]",rock
+111,Eric Clapton,"[254, 255, 256, 257, 258, 259]",rock 
+112,Evanescence,[260],rock
+113,Extreme,"[261, 262]",rock
+114,Fiersa Besari,"[263, 264, 265, 266]",pop
+115,Five for Fighting,[267],rock 
+116,Foo Fighters,"[268, 269, 270, 271]",rock 
+117,Fool's Garden,[272],rock
+118,Foster the People,"[273, 274]",indie
+119,Fourtwnty,"[275, 276]",pop
+120,Frank Sinatra,"[277, 278]",jazz
+121,Fugees,[279],rock
+122,Gary Jules,[280],alternative
+123,Glen Hansard,[281],acoustic
+124,Gnarls Barkley,[282],rock
+125,Goo Goo Dolls,"[283, 284, 285]",pop
+126,Gotye,"[286, 287]",alternative
+127,Green Day,"[288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300]",rock 
+128,Guns N' Roses,"[301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312]",rock 
+129,Harry Styles,[313],pop
+130,Hillsong United,"[314, 315, 316, 317]",pop
+131,Hillsong Worship,[318],pop
+132,Hinder,[319],rock
+133,Hoobastank,[320],rock 
+134,Housefires,[321],rock
+135,Howie Day,"[322, 323]",pop
+136,Hozier,"[324, 325, 326]",rock 
+137,Imagine Dragons,"[327, 328, 329, 330]",pop
+138,Ingrid Michaelson,[331],pop
+139,Iron Maiden,[332],rock 
+140,Israel Kamakawiwo'ole,"[333, 334, 335]",pop
+141,Jack Johnson,"[336, 337, 338]",pop
+142,James Arthur,"[339, 340, 341]",alternative
+143,James Bay,"[342, 343]",pop
+144,James Blunt,"[344, 345]",pop
+145,James Morrison,[346],rock
+146,James Taylor,[347],country
+147,Janis Joplin,[348],pop
+148,Jason Mraz,"[349, 350, 351, 352, 353, 354, 355, 356, 357, 358]",rock
+149,Jeff Buckley,"[359, 360, 361, 362]",blues
+150,JerryC,[363],rock
+151,Jessie J,"[364, 365, 366]",pop
+152,Jesus Culture,[367],dance
+153,Jimi Hendrix,"[368, 369]",rock 
+154,Jireh Lim,[370],blues
+155,Joe Anderson,[371],acoustic
+156,Joe Walsh,[372],alternative
+157,Johann Pachelbel,[373],rock
+158,John Denver,"[374, 375, 376, 377]",pop
+159,John Legend,"[378, 379]",acoustic
+160,John Lennon,"[380, 381, 382, 383]",rock
+161,John Mayer,"[384, 385, 386, 387, 388]",rock 
+162,Johnny Cash,"[389, 390, 391, 392, 393, 394, 395]",blues
+163,Joseph Vincent,[396],pop
+164,Josh Groban,[397],alternative
+165,Journey,[398],rock
+166,Juan Karlos Labajo,[399],pop
+167,Judy Garland,[400],pop
+168,Justin Bieber,"[401, 402, 403]",pop
+169,Justin Timberlake,[404],pop
+170,Kansas,"[406, 407, 408, 409]",rock
+171,Katy Perry,"[410, 411, 412, 413, 414, 415]",pop
+172,Keane,"[416, 417]",pop
+173,Kelly Clarkson,[418],pop
+174,Kevin Devine,[419],pop
+175,Kings of Leon,"[420, 421, 422]",rock 
+176,Kodaline,"[423, 424]",alternative
+177,LP,[452],dance
+178,Labrinth,[425],pop
+179,Lady A (Lady Antebellum),[426],pop
+180,Lady Gaga,"[427, 428, 429]",pop
+181,Lana Del Rey,"[430, 431, 432]",pop
+182,Led Zeppelin,"[433, 434, 435, 436, 437]",rock 
+183,Leonard Cohen,[438],blues
+184,Lewis Capaldi,"[439, 440]",dance
+185,Lifehouse,"[441, 442, 443]",rock
+186,Lil Nas X,[444],rap
+187,Lil Wayne,[445],rap
+188,Limp Bizkit,[446],rock 
+189,Linkin Park,[447],rock 
+190,Lord Huron,[448],pop
+191,Lorde,[449],pop
+192,Louis Armstrong,"[450, 451]",pop
+193,Ludwig van Beethoven,[453],classical
+194,Luis Fonsi,"[454, 455]",alternative
+195,Lukas Graham,[456],dance
+196,Lynyrd Skynyrd,"[457, 458, 459, 460]",rock
+197,MAGIC!,[461],pop
+198,MGMT,[493],dance
+199,Mariah Carey,[462],pop
+200,Marilyn Manson,[463],rock 
+201,Mark Ronson,[464],rock
+202,Maroon 5,"[465, 466, 467, 468, 469, 470, 471, 472, 473]",pop
+203,Matisyahu,[474],pop
+204,Matt Redman,"[475, 476]",alternative
+205,Meghan Trainor,"[477, 478]",pop
+206,Metallica,"[479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492]",rock 
+207,Michael Buble,"[494, 495]",blues
+208,Michael Jackson,"[496, 497]",pop
+209,Miley Cyrus,"[498, 499, 500, 501, 502]",pop
+210,Milky Chance,[503],alternative
+211,Milow,"[504, 505]",pop
+212,Misc Cartoons,"[506, 507, 508, 509]",misc
+213,Misc Christmas,"[510, 511, 512]",misc
+214,Misc Computer Games,[513],misc
+215,Misc Praise Songs,[514],misc
+216,Misc Soundtrack,"[515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525]",misc
+217,Misc Television,[526],misc
+218,Misc Traditional,"[527, 528, 529]",misc
+219,Moonstar88,[530],rock
+220,Mr. Big,[531],rock
+221,Mumford & Sons,"[532, 533, 534, 535]",indie
+222,Muse,"[536, 537, 538]",rock 
+223,My Chemical Romance,[539],rock 
+224,Naif,"[540, 541]",indie
+225,Natalie Imbruglia,[542],pop
+226,Neil Diamond,[544],rock 
+227,Neil Young,"[545, 546, 547, 548, 549, 550]",rock 
+228,Neutral Milk Hotel,[551],rock 
+229,Niall Horan,[552],pop
+230,Nick Jonas,[553],pop
+231,Nirvana,"[554, 555, 556, 557, 558, 559, 560, 561, 562]",rock 
+232,Oasis,"[563, 564, 565, 566, 567, 568, 569, 570, 571]",rock 
+233,Of Monsters and Men,"[572, 573]",alternative
+234,Old Crow Medicine Show,[574],indie
+235,One Direction,"[575, 576, 577, 578, 579, 580, 581]",pop
+236,OneRepublic,"[582, 583]",pop
+237,Orange and Lemons,[584],indie
+238,Otis Redding,[585],blues
+239,OutKast,[586],pop
+240,Owl City,[587],rock
+241,Ozzy Osbourne,[588],rock 
+242,P!nk,"[589, 590]",pop
+243,Paolo Nutini,"[591, 592]",pop
+244,Paramore,"[593, 594, 595]",rock 
+245,Parokya ni Edgar,"[596, 597, 598]",acoustic
+246,Passenger,"[599, 600, 601]",alternative
+247,Payung Teduh,[602],jazz
+248,Pearl Jam,"[603, 604]",rock 
+249,Pink Floyd,"[605, 606, 607, 608, 609, 610]",rock 
+250,Pixies,[611],alternative
+251,Plain White T's,"[612, 613, 614, 615, 616, 617]",alternative
+252,Poison,[618],rock 
+253,Prince,[619],rock 
+254,Queen,"[620, 621, 622, 623, 624, 625, 626, 627]",rock 
+255,R.E.M.,"[628, 629]",rock
+256,Rachel Platten,[630],pop
+257,Radiohead,"[631, 632, 633, 634, 635, 636, 637]",rock
+258,Randy Newman,[638],jazz
+259,Ray Charles,[639],jazz
+260,Red Hot Chili Peppers,"[640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650]",rock 
+261,Rey Valera,[651],blues
+262,Rihanna,"[652, 653, 654, 655, 656, 657, 658]",pop
+263,Rise Against,[659],rock 
+264,Rivermaya,"[660, 661, 662]",pop
+265,Ronan Keating,"[663, 664]",pop
+266,Ruth B.,[665],pop
+267,Sam Smith,"[666, 667, 668, 669, 670]",pop
+268,Sara Bareilles,[671],blues
+269,Scorpions,[672],rock 
+270,Secondhand Serenade,"[673, 674, 675]",acoustic
+271,Shania Twain,[676],jazz
+272,Shawn Mendes,"[677, 678, 679, 680]",indie
+273,Sheryl Crow,[681],pop
+274,Shontelle,[682],pop
+275,Sia,[683],jazz
+276,Side A,[684],blues
+277,Simon & Garfunkel,"[685, 686, 687, 688, 689]",pop
+278,Simple Plan,"[690, 691]",rock 
+279,Sixpence None the Richer,[692],rock 
+280,Slayer,[693],rock 
+281,Slipknot,"[694, 695]",rock 
+282,Smash Mouth,[696],rock 
+283,Snow Patrol,"[697, 698]",pop
+284,Soul Asylum,[699],pop
+285,Stephen Speaks,[700],dance
+286,Sting,[701],rock 
+287,Sublime,"[702, 703]",pop
+288,Sum 41,[704],rock 
+289,Sungha Jung,[705],blues
+290,System of a Down,"[706, 707, 708, 709, 710]",rock 
+291,Taio Cruz,[711],pop
+292,Tamia,[712],jazz
+293,Taylor Swift,"[713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739]",pop
+294,Tenacious D,"[740, 741]",rock 
+295,The Animals,"[742, 743, 744]",acoustic
+296,The Band,[745],blues
+297,The Band Perry,"[746, 747]",jazz
+298,The Beatles,"[748, 749, 750, 751, 752, 753, 754, 755, 756, 757, 758, 759, 760, 761, 762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773]",pop
+299,The Calling,[774],alternative
+300,The Chainsmokers,"[775, 776]",pop
+301,The Cranberries,"[777, 778]",rock 
+302,The Cure,[779],rock 
+303,The Fray,"[780, 781]",pop
+304,The Killers,[782],alternative
+305,The Kooks,[783],indie
+306,The Lumineers,[784],indie
+307,The Neighbourhood,[785],alternative
+308,The Police,[786],rock 
+309,The Red Jumpsuit Apparatus,"[787, 788]",rock
+310,The Righteous Brothers,[789],rock
+311,The Rolling Stones,"[790, 791, 792]",rock
+312,The Script,"[793, 794, 795]",pop
+313,The Smiths,[796],rock
+314,The White Stripes,"[797, 798]",rock 
+315,Third Eye Blind,[799],rock
+316,This Band,[800],indie
+317,Three Days Grace,[801],rock 
+318,Tom Odell,[802],jazz
+319,Tom Petty,"[803, 804]",blues
+320,Tones And I,[805],rock
+321,Toto,[806],pop
+322,Tracy Chapman,"[807, 808, 809]",blues
+323,Train,"[810, 811, 812, 813]",rock
+324,Travie McCoy,[814],pop
+325,U2,"[818, 819]",rock 
+326,Up Dharma Down,[820],acoustic
+327,Van Morrison,"[821, 822]",rock 
+328,Vance Joy,"[823, 824, 825]",acoustic
+329,Virgoun,[826],blues
+330,Weezer,"[827, 828]",rock 
+331,Westlife,"[829, 830]",pop
+332,Wham!,[831],rock 
+333,Wheatus,[832],rock 
+334,Wiz Khalifa,"[833, 834]",rap
+335,Yes,"[835, 836]",rock
+336,Young MC,[837],rap
+337,ZZ Top,"[838, 839, 840, 841, 842, 843, 844, 845, 846, 847, 848, 849, 850]",rock 
+338,a-ha,[33],pop
+339,kahitna,[405],pop
+340,near (Indonesia),[543],rock
+341,twenty one pilots,"[815, 816, 817]",rap
