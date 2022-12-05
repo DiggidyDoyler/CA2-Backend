@@ -8,7 +8,7 @@ const tabSchema = Schema(
       type: String,
       required: [true, "song name field is required"],
     },
-    song_rating: { type: String, required: [true, "city field is required"] },
+    song_rating: { type: String, required: [true, "song rating is required"] },
     song_hits: {
       type: Number,
     },
