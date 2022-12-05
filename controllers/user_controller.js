@@ -56,7 +56,6 @@ const login = (req, res) => {
         res.status(200).json({
           msg: "User signed in",
           token,
-          _id,
         });
       }
     })
