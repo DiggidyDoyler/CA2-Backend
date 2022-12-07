@@ -1,3 +1,4 @@
+const User = require("../models/user_schema");
 const readAll = (type, req, res, message, populate, populateType) => {
   if (populate === "populate") {
     type
@@ -6,6 +7,7 @@ const readAll = (type, req, res, message, populate, populateType) => {
       .then((data) => {
         console.log(data);
         if (data.length > 0) {
+          type === User ? data.forEach((data) => (data.password = "")) : "";
           res.status(200).json(data);
         } else {
           res.status(404).json(`${message}`);
@@ -40,8 +42,8 @@ const readOne = (type, id, req, res, populate, populateType) => {
       .populate(`${populateType}`)
       .then((data) => {
         if (data) {
-          type === User ? data.password === "" : "";
           let img;
+          type === User ? (data.password = "") : "";
           data.image_path
             ? (img = `${process.env.STATIC_FILES_URL}${data.image_path}`)
             : console.log("No image");
