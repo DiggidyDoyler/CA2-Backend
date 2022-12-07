@@ -24,7 +24,6 @@ const readData = (req, res) => {
           msg: "You must be a premium user to view Intermediate Tabs",
         });
       } else if (data) {
-        res.status(200).json(data);
         data.password ? data.password === null : "";
       } else {
         res.status(404).json({

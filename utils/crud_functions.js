@@ -40,8 +40,11 @@ const readOne = (type, id, req, res, populate, populateType) => {
       .populate(`${populateType}`)
       .then((data) => {
         if (data) {
+          type === User ? data.password === "" : "";
           let img;
-         data.image_path ? img = `${process.env.STATIC_FILES_URL}${data.image_path}` : console.log("No image")
+          data.image_path
+            ? (img = `${process.env.STATIC_FILES_URL}${data.image_path}`)
+            : console.log("No image");
           data.image_path = img;
           res.status(200).json(data);
         } else {
@@ -86,12 +89,11 @@ const readOne = (type, id, req, res, populate, populateType) => {
 };
 
 const create = (type, typeData, typeString, req, res) => {
-    type.create(typeData)
+  type
+    .create(typeData)
     .then((data) => {
       console.log(`New ${typeString} created`, data);
       res.status(201).json(data);
-
-
     })
     .catch((err) => {
       if (err.name === "ValidationError") {
@@ -106,12 +108,13 @@ const create = (type, typeData, typeString, req, res) => {
       console.error(err);
       res.status(500).json(err);
     });
-}
+};
 
-const update  = (type, id, typeString, body, req, res) => {
-  type.findByIdAndUpdate(id, body, {
-    new: true,
-  })
+const update = (type, id, typeString, body, req, res) => {
+  type
+    .findByIdAndUpdate(id, body, {
+      new: true,
+    })
     .then((data) => {
       if (data) {
         res.status(201).json(data);
@@ -138,37 +141,38 @@ const update  = (type, id, typeString, body, req, res) => {
       console.error(err);
       res.status(500).json(err);
     });
-}
+};
 
 const deleteFunc = (type, id, typeString, req, res) => {
-  type.deleteOne({ _id: id })
-  .then((data) => {
-    if (data.deletedCount) {
-      res.status(200).json({
-        message: `${typeString} with id: ${id} deleted successfully`,
-      });
-    } else {
-      res.status(404).json({
-        message: `${typeString} with id: ${id} not found`,
-      });
-    }
-  })
-  .catch((err) => {
-    console.error(err);
-    if (err.name === "CastError") {
-      res.status(400).json({
-        message: `Bad request, ${typeString} with id: ${id} is not a valid id`,
-      });
-    } else {
-      res.status(500).json(err);
-    }
-  });
-}
+  type
+    .deleteOne({ _id: id })
+    .then((data) => {
+      if (data.deletedCount) {
+        res.status(200).json({
+          message: `${typeString} with id: ${id} deleted successfully`,
+        });
+      } else {
+        res.status(404).json({
+          message: `${typeString} with id: ${id} not found`,
+        });
+      }
+    })
+    .catch((err) => {
+      console.error(err);
+      if (err.name === "CastError") {
+        res.status(400).json({
+          message: `Bad request, ${typeString} with id: ${id} is not a valid id`,
+        });
+      } else {
+        res.status(500).json(err);
+      }
+    });
+};
 
 module.exports = {
   readAll,
   readOne,
   create,
   update,
-  deleteFunc
+  deleteFunc,
 };
