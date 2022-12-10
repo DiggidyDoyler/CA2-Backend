@@ -83,6 +83,9 @@ const readData = (req, res) => {
 const updateData = (req, res) => {
   let id = req.params.id;
   let body = req.body;
+  if (req.file) {
+    req.user.image_path = req.file.filename;
+  }
   req.body.password = bcrypt.hashSync(req.body.password, 10);
   id === req.user._id || req.user.account === "admin"
     ? update(User, id, body, req, res)
