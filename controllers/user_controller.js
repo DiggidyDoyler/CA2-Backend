@@ -49,6 +49,8 @@ const login = (req, res) => {
             account: user.account,
             views: user.view_counter,
             time: user.view_counter_time,
+            image: user.image,
+            favourites: user.favourites,
           },
           process.env.APP_KEY,
           { expiresIn: "1hr" }
