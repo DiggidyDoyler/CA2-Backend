@@ -18,34 +18,29 @@ const register = (req, res) => {
 
   console.log(newUser);
 
-  //generate a token
-  let token = jwt.sign(
-    {
-      email: user.email,
-      name: user.name,
-      _id: user._id,
-      account: user.account,
-      views: user.view_counter,
-      time: user.view_counter_time,
-      image: user.image,
-      favourites: user.favourites,
-    },
-    process.env.APP_KEY,
-    { expiresIn: "1hr" }
-  );
-
   newUser.save((err, user) => {
     if (err) {
       return res.status(400).json({
         msg: err,
       });
     } else {
+      //generate a token
+      let token = jwt.sign(
+        {
+          email: user.email,
+          name: user.name,
+          _id: user._id,
+          account: user.account,
+          views: user.view_counter,
+          time: user.view_counter_time,
+          image: user.image,
+          favourites: user.favourites,
+        },
+        process.env.APP_KEY,
+        { expiresIn: "1hr" }
+      );
       user.password = undefined;
-      res.status(201).json({
-        msg: "User created and logged in",
-        token,
-        user,
-      });
+      return res.status(201).json(user, token);
     }
   });
 };
