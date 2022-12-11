@@ -24,23 +24,26 @@ const register = (req, res) => {
         msg: err,
       });
     } else {
+      user.password = undefined;
       //generate a token
       let token = jwt.sign(
         {
-          email: user.email,
-          name: user.name,
-          _id: user._id,
-          account: user.account,
-          views: user.view_counter,
-          time: user.view_counter_time,
-          image: user.image,
-          favourites: user.favourites,
+          email: newUser.email,
+          name: newUser.name,
+          _id: newUser._id,
+          account: newUser.account,
+          views: newUser.view_counter,
+          time: newUser.view_counter_time,
+          image: newUser.image,
+          favourites: newUser.favourites,
         },
         process.env.APP_KEY,
         { expiresIn: "1hr" }
       );
-      user.password = undefined;
-      return res.status(201).json(user, token);
+      res.status(201).json({
+        msg: "User created and signed in",
+        token,
+      });
     }
   });
 };
