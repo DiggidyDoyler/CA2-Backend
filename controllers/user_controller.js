@@ -30,6 +30,56 @@ const register = (req, res) => {
   });
 };
 
+const updateUserByID = (req, res) => {
+  let id = req.params.id;
+  let body = req.body;
+
+  if (body.password) {
+    body.password = bcrypt.hashSync(req.body.password, 10);
+  }
+
+  User.findByIdAndUpdate(id, body, {
+    _id: id,
+    new: true,
+  })
+    .then((data) => {
+      console.log(data);
+      if (data) {
+        data.password = undefined;
+        res.status(201).json({
+          msg: `Successfully updated ${data.username}!`,
+          data: data,
+        });
+        console.log(data, "User Updated!");
+      } else {
+        res.status(404).json({ message: `User with _id: ${id} not found` });
+        console.log("User Not Updated!");
+      }
+    })
+    .catch((err) => {
+      if (err.name === "ValidationError") {
+        console.error("Validation Error!!", err);
+        res.status(422).json({
+          msg: "Validation Error",
+          error: err.message,
+        });
+      } else if (err.name === "CastError") {
+        res.status(400).json({
+          message: `Bad request, either ${id} is not a valid _id, or you tried to update your wishlist with an invalid _id`,
+          wishlist: body.wishlist,
+        });
+      } else if (err.codeName === "DuplicateKey") {
+        res.status(400).json({
+          message: `The email address ${err.keyValue.email} already exists! No duplicate emails allowed.`,
+          error: err,
+        });
+      } else {
+        console.error(err);
+        res.status(500).json(err);
+      }
+    });
+};
+
 const login = (req, res) => {
   User.findOne({
     email: req.body.email,
@@ -85,9 +135,9 @@ const readData = (req, res) => {
 const updateData = (req, res) => {
   let id = req.params.id;
   let body = req.body;
-  if (req.file) {
-    req.user.image_path = req.file.filename;
-  }
+  // if (req.file) {
+  //   req.user.image_path = req.file.filename;
+  // }
   req.body.password = bcrypt.hashSync(req.body.password, 10);
   id === req.user._id || req.user.account === "admin"
     ? update(User, id, body, req, res)
@@ -126,4 +176,5 @@ module.exports = {
   readAllData,
   readData,
   updateData,
+  updateUserByID,
 };
